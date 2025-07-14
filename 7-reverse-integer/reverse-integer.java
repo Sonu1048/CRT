@@ -10,7 +10,6 @@ class Solution {
             x /=10;
 
         }
-        // Check for overflow
 
     return (int)reverse;
 
